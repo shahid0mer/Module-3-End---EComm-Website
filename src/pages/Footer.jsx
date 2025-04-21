@@ -7,9 +7,11 @@ const Footer = () => {
         <div className="container mx-auto px-6 md:px-12 lg:px-20 flex flex-col md:flex-row justify-between items-center md:items-start space-y-8 md:space-y-0">
           {/* Brand Info */}
           <div className="text-center md:text-left w-full md:w-1/3 pr-10">
-            <h2 className="text-2xl font-bold text-white">BrandName</h2>
+            <h2 className="text-2xl font-bold text-white">Jshoppy</h2>
             <p className="mt-2 text-gray-100">
-              Creating stunning web experiences with modern design principles.
+              The best place to find your next favorite product. We offer a wide
+              range of products at unbeatable prices. Our mission is to provide
+              a seamless shopping experience for our customers.
             </p>
           </div>
           {/* Useful Links */}
@@ -84,7 +86,7 @@ const Footer = () => {
           </div>
         </div>
         <div className="text-center text-gray-100 text-sm mt-8">
-          © 2024 BrandName. All rights reserved.
+          © 2024 Jshoppy. All rights reserved.
         </div>
       </footer>
     </div>
